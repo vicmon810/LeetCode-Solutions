@@ -6,6 +6,8 @@ package Algorithms.Easy;
 class MergeString {
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder result = new StringBuilder();
+        String[] words;
+        // int end = words.length;
         int i = 0;
         while (i < word1.length() || i < word2.length()) {
             if (i < word1.length())
