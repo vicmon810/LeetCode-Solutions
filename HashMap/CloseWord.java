@@ -11,16 +11,6 @@ public class CloseWord {
         }
         return c;
     }
-    public static int co(char arr[], int key) {
-        int c = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == key) {
-                c++;
-                arr[i] = '-';
-            }
-        }
-        return c;
-    }
 
     public static int[] count(char arr[]) {
         int n = arr.length;
@@ -64,8 +54,8 @@ public class CloseWord {
     }
 
     public static void main(String[] args) {
-        // System.out.println(closeStrings("abc", "bca"));
-        // closeStrings("a", "null");
+        System.out.println(closeStrings("abc", "bca"));
+        closeStrings("a", "null");
         closeStrings("cabbba", "abbccc");
     }
 }
