@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LargestAlt",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.LargestAlt",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MaxArea",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.MaxArea",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MergeString",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.MergeString",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeros",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.MoveZeros",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "ReverseVowels",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.ReverseVowels",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "Subsequence",
+            "request": "launch",
+            "mainClass": "Algorithms.Easy.Subsequence",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "IncreaseTriple",
+            "request": "launch",
+            "mainClass": "Algorithms.Medium.IncreaseTriple",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "LongZeros",
+            "request": "launch",
+            "mainClass": "Algorithms.Medium.LongZeros",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubArray",
+            "request": "launch",
+            "mainClass": "Algorithms.Medium.LongestSubArray",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "ProductExcept",
+            "request": "launch",
+            "mainClass": "Algorithms.Medium.ProductExcept",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWord",
+            "request": "launch",
+            "mainClass": "Algorithms.Medium.ReverseWord",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "CloseWord",
+            "request": "launch",
+            "mainClass": "CloseWord",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "Middle",
+            "request": "launch",
+            "mainClass": "LinkedList.Middle",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "OddEventList",
+            "request": "launch",
+            "mainClass": "LinkedList.OddEventList",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "Dota2",
+            "request": "launch",
+            "mainClass": "Queue.Dota2",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "DeleteAndEarn",
+            "request": "launch",
+            "mainClass": "dyn_prog.DeleteAndEarn",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "IncreasePair",
+            "request": "launch",
+            "mainClass": "dyn_prog.IncreasePair",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MinPathSum",
+            "request": "launch",
+            "mainClass": "dyn_prog.MinPathSum",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MinTotal",
+            "request": "launch",
+            "mainClass": "dyn_prog.MinTotal",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "MiniInser",
+            "request": "launch",
+            "mainClass": "dyn_prog.MiniInser",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "Rob",
+            "request": "launch",
+            "mainClass": "dyn_prog.Rob",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "RussianDoll",
+            "request": "launch",
+            "mainClass": "dyn_prog.RussianDoll",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "UniquePath2",
+            "request": "launch",
+            "mainClass": "dyn_prog.UniquePath2",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "UniquePaths",
+            "request": "launch",
+            "mainClass": "dyn_prog.UniquePaths",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "RemoveStart",
+            "request": "launch",
+            "mainClass": "stack.RemoveStart",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "asteroids",
+            "request": "launch",
+            "mainClass": "stack.asteroids",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "uniqueOccurrences",
+            "request": "launch",
+            "mainClass": "uniqueOccurrences",
+            "projectName": "leetcode_43686a0"
+        }
+    ]
+}
