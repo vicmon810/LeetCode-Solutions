@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerfectSqu",
+            "request": "launch",
+            "mainClass": "dyn_prog.PerfectSqu",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
             "name": "BTS",
             "request": "launch",
             "mainClass": "dyn_prog.BTS",
