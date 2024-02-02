@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CombSum",
+            "request": "launch",
+            "mainClass": "dyn_prog.CombSum",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
+            "name": "CoinChage",
+            "request": "launch",
+            "mainClass": "dyn_prog.CoinChage",
+            "projectName": "leetcode_43686a0"
+        },
+        {
+            "type": "java",
             "name": "PerfectSqu",
             "request": "launch",
             "mainClass": "dyn_prog.PerfectSqu",
