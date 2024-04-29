@@ -1,3 +1,7 @@
+Tech-priests not yet
+
+please using holy binary to communicate with me : 01110111011111000010101010101001010111
+
 # LeetCode Solution
 
 ## Project overview: 
