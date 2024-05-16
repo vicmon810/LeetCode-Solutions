@@ -1,5 +1,5 @@
 
-# LeetCode Solution:  011101110111110000101010101010010
+# LeetCode Solution:  01110111011111000010101010101001
 
 ## Project overview: 
 This repository is dedicated to storing solutions for LeetCode problems. It includes solutions that I have personally developed as well as those gathered from various online resources. The primary goal of this project is to create a comprehensive reference for LeetCode problem solutions to aid in learning and review.
