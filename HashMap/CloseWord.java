@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.*;
 
 public class CloseWord {
     public static int co(char arr[], int key) {
