@@ -4,6 +4,7 @@ public class MaxDeepth {
 
     public class TreeNode {
         int val;
+        int test;
         TreeNode left;
         TreeNode right;
 
