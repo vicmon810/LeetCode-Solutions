@@ -4,6 +4,7 @@ class Solution
 public
     int EqualPairs(int[][] g)
     {
+        
         int ans = 0;
         for (int i = 0; i < g.Length; i++)
             for (int j = 0; j < g.Length; j++)
