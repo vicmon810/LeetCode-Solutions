@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyTools",
+            "request": "launch",
+            "mainClass": "MyTools",
+            "projectName": "LeetCode-Solutions_3bab5cbf"
+        },
+        {
+            "type": "java",
+            "name": "leetcode151",
+            "request": "launch",
+            "mainClass": "easy_solutions.leetcode151",
+            "projectName": "LeetCode-Solutions_3bab5cbf"
+        },
+        {
+            "type": "java",
             "name": "CombSum",
             "request": "launch",
             "mainClass": "dyn_prog.CombSum",
