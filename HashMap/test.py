@@ -1,6 +1,6 @@
 from typing import List
 
-fda
+
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         a = 0
