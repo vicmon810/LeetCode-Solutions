@@ -1,7 +1,7 @@
 package stack;
 
 import java.util.Stack;
-
+#1212
 public class asteroids {
     private static int[] collision(int[] asteroids) {
         Stack<Integer> st = new Stack<>();
