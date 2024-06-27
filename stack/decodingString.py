@@ -1,4 +1,5 @@
 class Solution(object):
+    # forget this code for
     def decodeString(self, s):
         stack = []
         curNum = 0
