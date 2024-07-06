@@ -1,4 +1,7 @@
 class Solution(object):
+
+    fds
+    
     def pivotIndex(self, nums):
         """
         :type nums: List[int]
