@@ -1,5 +1,5 @@
 package stack;
-
+//comment
 public class RemoveStart {
     public static StringBuilder stripper(String row) {
         StringBuilder ans = new StringBuilder();
