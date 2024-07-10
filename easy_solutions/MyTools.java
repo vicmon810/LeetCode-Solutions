@@ -1,6 +1,6 @@
 import java.util.Scanner;// import the Scanner class
 /**a class to print number which user enter*/
-public class MyTools{
+public class MyTools
    private  Scanner scanner = new Scanner(System.in);
    public static void main (String[]arges){
       //called with prompt parameter
