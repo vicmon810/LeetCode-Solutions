@@ -1,4 +1,5 @@
 # LeetCode Solution:  
+vacation
 ## Project overview: 
 This repository is dedicated to storing solutions for LeetCode problems. It includes solutions that I have personally developed as well as those gathered from various online resources. The primary goal of this project is to create a comprehensive reference for LeetCode problem solutions to aid in learning and review.
 
