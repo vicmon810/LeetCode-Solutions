@@ -1,6 +1,6 @@
 class Solution(object):
 
-    fds
+    
     
     def pivotIndex(self, nums):
         """
